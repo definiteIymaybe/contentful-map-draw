@@ -1,6 +1,7 @@
 {
-  "id": "deploy",
-  "name": "deploy",
+  "id": "map-draw",
+  "name": "map-draw",
   "srcdoc": "./build/index.html",
-  "sidebar": true
+  "sidebar": false,
+  "fieldTypes": ["Object", "Symbol", "Symbols"]
 }
