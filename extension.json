@@ -1,0 +1,6 @@
+{
+  "id": "deploy",
+  "name": "deploy",
+  "srcdoc": "./build/index.html",
+  "sidebar": true
+}
